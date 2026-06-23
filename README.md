@@ -144,34 +144,53 @@ report.txt
 
 ## Screenshots
 
+### Dataset Preview
+
+![Dataset Preview](01_dataset_preview.png)
+
 ### Dataset Summary Agent
 
-![Dataset Summary](screenshots/02_dataset_summary_agent.png)
+![Dataset Summary](02_dataset_summary_agent.png)
 
 ### Dataset Health Score Agent
 
-![Dataset Health](screenshots/03_dataset_health_agent.png)
+![Dataset Health](03_dataset_health_agent.png)
 
-### Data Visualization Agent
+### Category Sales Chart
 
-![Visualization](screenshots/04_category_sales_chart.png)
+![Category Sales](04_category_sales_chart.png)
 
-### AI Insight Agent
+### Category Profit Chart
 
-![AI Insight](screenshots/07_ai_insight_agent_01.png)
-![AI Insight](screenshots/07_ai_insight_agent_02.png)
+![Category Profit](05_category_profit_chart.png)
 
+### Region Profit Chart
+
+![Region Profit](06_region_profit_chart.png)
+
+### AI Insight Agent (Part 1)
+
+![AI Insight 1](07_ai_insight_agent_01.png)
+
+### AI Insight Agent (Part 2)
+
+![AI Insight 2](07_ai_insight_agent_02.png)
+
+### Sales Distribution Chart
+
+![Sales Distribution](08_sales_distribution_chart.png)
+
+### Ask Question Agent
+
+![Ask Question Agent](09_ask_question_agent.png)
 
 ### Business Recommendation Agent
 
-![Recommendations](screenshots/10_business_recommendation_agent.png)
+![Business Recommendation Agent](10_business_recommendation_agent.png)
 
 ### Report Agent
 
-![Report](screenshots/11_report_agent.png)
-
----
-
+![Report Agent](11_report_agent.png)
 ## Project Workflow
 
 Upload CSV Dataset
