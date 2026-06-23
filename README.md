@@ -72,7 +72,9 @@ Evaluates data quality by checking:
 - Duplicate records
 
 Generates a dataset health score.
--Dataset Health Agent identifies missing values and duplicate records to assess dataset quality.
+
+-Dataset Health Agent identifies missing values and duplicate records to assess dataset quality. 
+
 ---
 
 ### 3. Data Visualization Agent
